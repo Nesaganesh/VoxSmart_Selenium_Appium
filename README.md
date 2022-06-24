@@ -13,9 +13,11 @@ Folder Structure
       Chrome: Sets chrome driver to run tests from local
       DriverFactory: Change  the below values to run either in chrome/android
         
-      a.  TODO: Can move these into a config file 
-          1. public static Clients client = Clients.ANDROID;
-          2. public static Clients client = Clients.CHROME;
+      a. TODO: Can move these into a config file 
+          
+          public static Clients client = Clients.ANDROID;
+          public static Clients client = Clients.CHROME;
+          
   2. Helper:
       WaitHelper: Waits for the element to be visible
   3. Hooks:
