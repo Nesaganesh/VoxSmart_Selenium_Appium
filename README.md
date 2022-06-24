@@ -42,6 +42,9 @@ Resources:
           And do automation for adding contacts and sending files 
 
 
+
       
       
-      
+<img width="325" alt="Screenshot 2022-06-24 at 10 25 14" src="https://user-images.githubusercontent.com/6851548/175511354-a49a2891-3aa7-4b90-8c2a-a5aa53523f08.png">
+<img width="809" alt="Screenshot 2022-06-24 at 02 15 27" src="https://user-images.githubusercontent.com/6851548/175511358-e19322ee-891a-4597-9289-dcc859975c44.png">
+<img width="790" alt="Screenshot 2022-06-24 at 02 13 07" src="https://user-images.githubusercontent.com/6851548/175511366-b4892ffd-bc2c-4f75-8d89-430bbc9bdc9c.png">
